@@ -64,13 +64,13 @@
 
 ## 📸 Скриншоты
 
-[screenshot 01](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2033.PNG)
+[Блок-схема](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/Flowchart.jpg)
 
-[screenshot 02](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2034.PNG)
+[Скрин конструктора 01](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_01.png)
 
-[screenshot 03](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2035.PNG)
+[Скрин конструктора 02](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_02.png)
 
-[screenshot 04](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/Google.PNG)
+[Скриншоты UI](https://github.com/po42pi-star/nutritionist_nnys_bot/tree/main/screenshots)
 
 ## 🎯 Заключение
 
