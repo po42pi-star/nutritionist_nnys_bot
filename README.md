@@ -72,7 +72,7 @@
 
 ![Скрин конструктора 02](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_02.png)
 
-![Скриншоты UI](https://github.com/po42pi-star/nutritionist_nnys_bot/tree/main/screenshots)
+[Скриншоты UI](https://github.com/po42pi-star/nutritionist_nnys_bot/tree/main/screenshots)
 
 ## 🎯 Заключение
 
