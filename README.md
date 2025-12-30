@@ -1,8 +1,10 @@
+<div align="center">
+
 # 🤖 Бот-нутрицилог NutriBot
 
-> **Telegram-бот-нутрициолог с ИИ-ассистентом для расчета индивидуальных норм питания и формирования персонализированного меню**
+**Telegram-бот-нутрициолог с ИИ-ассистентом для расчета индивидуальных норм питания и формирования персонализированного меню**
 
-**Telegram**: [@nutritionist_nnys_bot](https://t.me/nutritionist_nnys_bot)
+</div>
 
 ---
 
@@ -64,13 +66,13 @@
 
 ## 📸 Скриншоты
 
-[Блок-схема](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/Flowchart.jpg)
+![Блок-схема](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/Flowchart.jpg)
 
-[Скрин конструктора 01](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_01.png)
+![Скрин конструктора 01](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_01.png)
 
-[Скрин конструктора 02](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_02.png)
+![Скрин конструктора 02](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_02.png)
 
-[Скриншоты UI](https://github.com/po42pi-star/nutritionist_nnys_bot/tree/main/screenshots)
+![Скриншоты UI](https://github.com/po42pi-star/nutritionist_nnys_bot/tree/main/screenshots)
 
 ## 🎯 Заключение
 
