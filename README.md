@@ -78,7 +78,7 @@
 
 ### Главное меню и `/start`
 
-![Main Menu]([docs/images/ai-rag-fitness-trainer-mainmenu.PNG](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/screenshots/IMG_1879.PNG))
+![Main Menu](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/screenshots/IMG_1879.PNG)
 
 ### **Тестовые скриншоты работы бота** доступны в папке [screenshots](screenshots)
 
