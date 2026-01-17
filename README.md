@@ -66,11 +66,19 @@
 
 ## 📸 Скриншоты
 
+### Блок-схема
+
 ![Блок-схема](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/Flowchart.jpg)
+
+### Скрины конструктора
 
 ![Скрин конструктора 01](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_01.png)
 
 ![Скрин конструктора 02](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/nutritionist_bot_02.png)
+
+### Главное меню и `/start`
+
+![Main Menu]([docs/images/ai-rag-fitness-trainer-mainmenu.PNG](https://github.com/po42pi-star/nutritionist_nnys_bot/blob/main/screenshots/IMG_1879.PNG))
 
 ### **Тестовые скриншоты работы бота** доступны в папке [screenshots](screenshots)
 
